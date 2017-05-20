@@ -72,13 +72,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
+              "background": "#245383"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
+              "background": "#2c649f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
+              "background": "#2f6cab"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -101,7 +101,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#2c3e50",
+            "bgColor": "#2f6cab",
             "fontSize": 0.875,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -116,7 +116,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dropshop-logo-alpha-final-white-resize-1017x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dropshop-logo-alpha-final-white-resize-min.png",
               "height": 128,
               "alt": "DropShop",
               "link": "index.html",
@@ -1227,7 +1227,7 @@
           "_name": "menu",
           "_anchor": "menu-r",
           "_params": {
-            "bgColor": "#2c3e50",
+            "bgColor": "#2f6cab",
             "fontSize": 0.875,
             "fontName": {},
             "fontColor": "#ffffff",
