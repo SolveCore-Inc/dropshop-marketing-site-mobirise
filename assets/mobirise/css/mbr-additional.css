@@ -855,6 +855,12 @@ blockquote {
 #pricing-table2-j .mbr-plan-title {
   color: #7f8c8d;
 }
+#form3-z .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form3-z .form-control-label {
+  color: undefined;
+}
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }

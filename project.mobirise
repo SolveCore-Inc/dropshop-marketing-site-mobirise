@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -244,7 +244,7 @@
             }
           },
           "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content3-o\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VISIT APP STORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content3-o\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://apps.shopify.com/dropshop\" data-toolbar=\"-mbrBtnMove\">VISIT APP STORE</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
@@ -996,21 +996,21 @@
           "price1": "10.99",
           "period1": "/mo",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>5</b> Suppliers</li><li class=\"list-group-item\"><b>500</b>&nbsp;Order Exports</li><li class=\"list-group-item\"><b>1</b> Export Format</li><li class=\"list-group-item\"><b>Limited</b> DropShop Use</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://apps.shopify.com/dropshop\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "label2": "LIMITED TIME ONLY",
           "title2": "DROPSHOP: FOUNDER",
           "currency2": "$",
           "price2": "29.99",
           "period2": "/mo",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Suppliers</li><li class=\"list-group-item\"><b>Unlimited</b>&nbsp;Order Exports</li><li class=\"list-group-item\"><b>Unlimited</b>&nbsp;Export Formats</li><li class=\"list-group-item\"><b>Unlimited </b>DropShop Use</li><li class=\"list-group-item\"><br></li></ul><p><i>After first 100 enrollments, plans will increase,&nbsp;</i></p><p><i>and founders plan will no longer be available.</i></p>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://apps.shopify.com/dropshop\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE NOW</a>",
           "label3": "POPULAR",
           "title3": "COMING SOON",
           "currency3": "$",
           "price3": "65.99",
           "period3": "/mo",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>20+</b> Suppliers</li><li class=\"list-group-item\"><b>Unlimited</b>&nbsp;Order Exports</li><li class=\"list-group-item\"><b>Unlimited</b> Export Formats</li><li class=\"list-group-item\"><b>Unlimited</b> DropShop Use</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://apps.shopify.com/dropshop\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "label4": "POPULAR",
           "title4": "ULTIMATE PLAN",
           "currency4": "$",
@@ -1049,8 +1049,8 @@
           },
           "title": "Ready to get started?",
           "text": "Become a DropShop user today by installing the app and setting up your suppliers through the Shopify admin. Need help? Just reach out to us through our support or contact pages.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">start here</a>",
-          "text1": "or <a href=\"http://mobirise.com\">Check FAQ</a>."
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://apps.shopify.com/dropshop\" data-toolbar=\"-mbrBtnMove\">start here</a>",
+          "text1": "or <a href=\"index.html#toggle1-k\">Check our FAQ</a>."
         },
         {
           "alias": "colorm/components",
@@ -1060,13 +1060,13 @@
           "_name": "toggle1",
           "_anchor": "toggle1-k",
           "_params": {
-            "tabs": "3",
+            "tabs": "5",
             "paddingTop": 2,
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ecf0f1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1080,70 +1080,82 @@
           },
           "title": "DropShop FAQ",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
-          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is DropShop?</a>",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is DropShop and how do I use it?</a>",
           "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-k\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Where do I find suppliers?</a>",
           "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseThree\">How do I convince my supplier to switch to bulk files?</a>",
           "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFourtoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseFour\">How do I manage suppliers and products?</a>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFivetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseFive\">What export options are available?</a>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
         },
         {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "intro5",
-          "_anchor": "intro5-h",
+          "_name": "form3",
+          "_anchor": "form3-z",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "bgColor": "#ecf0f1",
+            "bgColor": "#bdc3c7",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.85,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#ecf0f1",
+            "showSubtitle": true,
             "showTitle": true,
-            "showText": true
+            "showText": false
           },
-          "title": "Learn more about DropShop and how to start bulk ordering with your suppliers",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
+          "subtitle": "LEARN MORE ABOUT DROPSHOP AND HOW TO GET STARTED WITH BULK EXPORTING",
+          "title": "Subscribe now!",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
           "form": {
-            "action": "njancsar@gmail.com",
+            "action": "info@dropshop.solvecore.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out the information form! We will get in touch as soon as possible."
             },
             "fields": {
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email"
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
               },
               "name": {
                 "title": "Name",
-                "customTitle": "Name*",
-                "visible": false
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
               },
               "phone": {
                 "title": "Phone",
-                "customTitle": "Phone",
-                "visible": false
+                "visible": false,
+                "customTitle": "Phone"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>"
+          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">send</a>"
         }
       ]
     },
