@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M-Site",
-    "currentPage": "index.html",
+    "currentPage": "Contact Page",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 37,
+    "uniqCompNum": 43,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -32,8 +32,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "DropShop :: Overview",
+        "meta_descr": "An overview of the DropShop order management system for dropshipping.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Page\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
         },
         {
           "_styles": {
@@ -1102,74 +1102,37 @@
         },
         {
           "_styles": {
-            "P": {
-              "color": "#eeeeee"
+            ".mbr-section-text": {
+              "color": "#fff"
             }
           },
-          "title1": "product",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "followtext": "follow us",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer7",
-          "_anchor": "footer7-s",
+          "_name": "footer2",
+          "_anchor": "footer2-11",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2980b9",
+            "bgColor": "#2c3e50",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#f7f7f7",
-            "showButtons": true
+            "overlayColor": "#444444"
           },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dropshop-logo-alpha-final-white-resize-min.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "titled1": "",
-          "titled2": "",
-          "titled3": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "text": "Copyright (c) 2016, Solvecore inc."
+          "text": "Copyright (c) 2016 Solvecore inc."
         }
       ]
     },
-    "page1.html": {
-      "settings": {},
+    "Contact Page": {
+      "settings": {
+        "title": "Contact us",
+        "meta_descr": "Contact the team at DropShop for support and information."
+      },
       "components": [
         {
           "_styles": {
@@ -1204,13 +1167,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
+              "background": "#245383"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
+              "background": "#2c649f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
+              "background": "#2f6cab"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1248,10 +1211,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dropshop-logo-alpha-final-resize-841x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dropshop-logo-alpha-final-white-resize-min.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "DropShop home",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1262,7 +1225,146 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Page\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call3",
+          "_anchor": "call3-14",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#2c3e50",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#e74c3c",
+            "showText": true,
+            "showTitle": true,
+            "showButtons": false
+          },
+          "text": "AMAZING AND THOROUGH SUPPORT",
+          "title": "WE ARE HERE RIGHT WHEN YOU NEED US.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">see live demo</a>"
+        },
+        {
+          "_styles": {},
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call4",
+          "_anchor": "call4-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/09.jpg",
+            "bgColor": "#c0392b",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#52779e",
+            "showTitle": true,
+            "showButtons": true
+          },
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
+          "title": "Hello, do you need some help?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"http://support-dropshop.solvecore.com/\" data-toolbar=\"-mbrBtnMove\">view DOCS</a><a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_styles": {
+            ".form-control-label": {}
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-16",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showCat1": true,
+            "showCat2": false,
+            "showCat3": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "cat1": "address",
+          "title1": "757 St Albans Cr, Woodstock, ON N4S 7E5",
+          "cat2": "phone",
+          "title2": "+1 234-567-890",
+          "cat3": "email",
+          "title3": "info@dropshop.solvecore.com",
+          "text": "Get in touch with us about DropShop and how you can use it to elevate your dropshipping business today. Once you contact us someone from our customer service department should reach out to you within 1 business day.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
+          "form": {
+            "action": "info@dropshop.solvecore.com",
+            "alerts": {
+              "success": "Thanks for contacting us. We will get back to you as soon as possible."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_styles": {
@@ -1329,26 +1431,6 @@
           "titled3": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "text": "Copyright (c) 2016, Solvecore inc."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "By <b>John Smith</b> posted July 20, 2016"
         }
       ]
     }

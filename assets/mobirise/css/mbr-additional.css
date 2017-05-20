@@ -861,8 +861,8 @@ blockquote {
 #form3-z .form-control-label {
   color: undefined;
 }
-#footer7-s P {
-  color: #eeeeee;
+#footer2-11 .mbr-section-text {
+  color: #fff;
 }
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
@@ -902,19 +902,19 @@ blockquote {
 }
 #menu-r .link[aria-expanded="true"],
 #menu-r .dropdown-menu {
-  background: #1a242f;
+  background: #245383;
 }
 #menu-r .nav-dropdown-sm .link:focus,
 #menu-r .nav-dropdown-sm .link:hover,
 #menu-r .nav-dropdown-sm .dropdown-item:focus,
 #menu-r .nav-dropdown-sm .dropdown-item:hover {
-  background: #273646!important;
+  background: #2c649f!important;
 }
 #menu-r .navbar,
 #menu-r .nav-dropdown-sm,
 #menu-r .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-r .nav-dropdown-sm .dropdown-menu {
-  background: #2c3e50;
+  background: #2f6cab;
 }
 #menu-r .bg-color.transparent .link {
   color: #ffffff;
@@ -931,10 +931,18 @@ blockquote {
 #menu-r .dropdown-item[aria-expanded="true"] {
   color: #2980b9!important;
 }
+#call3-14 .display-1 {
+  font-weight: 700;
+  color: #fff;
+}
+#call3-14 .lead {
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+#contacts3-16 .form-control-label {
+  color: undefined;
+}
 #footer7-s P {
   color: #eeeeee;
-}
-#content3-t .mbr-section-title,
-#content3-t .mbr-section-subtitle {
-  text-align: center;
 }
