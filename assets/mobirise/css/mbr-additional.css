@@ -861,6 +861,9 @@ blockquote {
 #form3-z .form-control-label {
   color: undefined;
 }
+#footer7-s P {
+  color: #eeeeee;
+}
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -927,6 +930,9 @@ blockquote {
 #menu-r .link[aria-expanded="true"],
 #menu-r .dropdown-item[aria-expanded="true"] {
   color: #2980b9!important;
+}
+#footer7-s P {
+  color: #eeeeee;
 }
 #content3-t .mbr-section-title,
 #content3-t .mbr-section-subtitle {
