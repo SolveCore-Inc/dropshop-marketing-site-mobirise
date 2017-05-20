@@ -876,7 +876,7 @@
             "paddingBottom": 2,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/warehouse-min-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/warehouse-min-1-2000x1333.png",
             "bgColor": "#16a085",
             "bgColorRadio": false,
             "bgVideo": {
