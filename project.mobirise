@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M-Site",
-    "currentPage": "index.html",
+    "currentPage": "Contact Page",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Page\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Page\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
         },
         {
           "_styles": {
@@ -170,7 +170,7 @@
             "VideoUrl": "https://www.youtube.com/watch?v=Tq7p44IA-1U"
           },
           "title": "Bulk order managment",
-          "text": "Automate and accelerate your shops bulk-ordering process. You don't need to spend hundreds per month hiring a virtual <br>assistant to click a button hundreds of times per day. One click and all your orders are exported. One click and your tracking&nbsp;<br>is imported. This means happy customers, and spending less time and money for you!&nbsp;",
+          "text": "Automate and accelerate your shop's bulk-ordering process. You don't need to spend hundreds per month hiring a virtual <br>assistant to click a button hundreds of times per day. One click and all your orders are exported. One click and your tracking&nbsp;<br>is imported. This means happy customers, and spending less time and money for you!&nbsp;",
           "media": {
             "image": {
               "active": true,
@@ -889,7 +889,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>For a limited time only join DropShop and get access to unlimted functionality as we grow our userbase and continue to expand our products abilities. <b>This offer will not be available forever</b>. We are extending it to the first 100 users to enroll with us <i>only</i>, so get in touch with us today to see if DropShop is right for you!</p>"
+          "text": "<p>For a limited time only join DropShop and get access to unlimited functionality as we grow our userbase and continue to expand our product's abilities. <b>This offer will not be available forever</b>. We are extending it to the first 100 users to enroll with us <i>only</i>, so get in touch with us today to see if DropShop is right for you!</p>"
         },
         {
           "_styles": {
@@ -936,9 +936,9 @@
           "label1": "POPULAR",
           "title1": "COMING SOON",
           "currency1": "$",
-          "price1": "10.99",
+          "price1": "N/A",
           "period1": "/mo",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>5</b> Suppliers</li><li class=\"list-group-item\"><b>500</b>&nbsp;Order Exports</li><li class=\"list-group-item\"><b>1</b> Export Format</li><li class=\"list-group-item\"><b>Limited</b> DropShop Use</li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Entry </b>level pricing</li><li class=\"list-group-item\"><b>Limited</b> DropShop Use</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://apps.shopify.com/dropshop\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "label2": "LIMITED TIME ONLY",
           "title2": "DROPSHOP: FOUNDER",
@@ -950,9 +950,9 @@
           "label3": "POPULAR",
           "title3": "COMING SOON",
           "currency3": "$",
-          "price3": "65.99",
+          "price3": "N/A",
           "period3": "/mo",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>20+</b> Suppliers</li><li class=\"list-group-item\"><b>Unlimited</b>&nbsp;Order Exports</li><li class=\"list-group-item\"><b>Unlimited</b> Export Formats</li><li class=\"list-group-item\"><b>Unlimited</b> DropShop Use</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Pro</b> level pricing</li><li class=\"list-group-item\"><b>Unlimited</b> DropShop Use</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://apps.shopify.com/dropshop\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "label4": "POPULAR",
           "title4": "ULTIMATE PLAN",
@@ -1024,15 +1024,15 @@
           "title": "DropShop FAQ",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
           "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is DropShop and how do I use it?</a>",
-          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
+          "text1": "<p>DropShop is an app for the Shopify e-commerce platform specially designed to enable store owners to quickly manage and send bulk orders to their suppliers, then receive tracking information in return. It is embedded within Shopify for an optimal user experience. To start using it, install it on your store and follow the instructions! It comes with a 14 day trial.</p>",
           "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Where do I find suppliers?</a>",
-          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseThree\">How do I convince my supplier to switch to bulk files?</a>",
-          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text2": "<p>We would encourage you to continue to build relationships with the existing suppliers that you currently use and trust. Just starting out? That is OK too! Place a few single item orders with a supplier on sites like AliExpress, Ebay, or Etsy, until you have a good mutual business relationship, then begin negotations with them by email or chat to process bulk files. Need more information? Just let us know.</p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseThree\">What are the benefits of DropShop?</a>",
+          "text3": "<p>Key benefits from bulk ordering systems:<br><b>1.</b> Less time spent placing single orders &nbsp;<span style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp;</span><span style=\"font-size: 1rem; line-height: 1.85em;\"><b>2.</b> Consolidation of export and tracking import apps &nbsp;</span><span style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp;</span><span style=\"font-size: 1rem; line-height: 1.85em;\"><b>3.</b> Increased visibility to bulk order status (less digging through email history) &nbsp;&nbsp;</span><span style=\"font-size: 1rem; line-height: 1.85em;\"><b>4.</b>&nbsp;</span><span style=\"font-size: 1rem; line-height: 1.85em;\">Cost-savings</span><span style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp;from reduction of need to hire VAs to manage single orders</span></p>",
           "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFourtoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseFour\">How do I manage suppliers and products?</a>",
-          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text4": "<p>Suppliers and products are managed in part through familiar interfaces built into the Shopify admin, and also through new extensions within the DropShop app interface. Products can be assigned to a supplier item-by-item, or in bulk actions.</p>",
           "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFivetoggle1-k\" aria-expanded=\"true\" aria-controls=\"collapseFive\">What export options are available?</a>",
-          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Presently DropShop is capable of exporting .csv (in ASCII or UTF-8 encoding), .xls, and .xlsx. We are capable of exporting over 40 Shopify line items fields and custom fields. If you require a special field, you can always let us know and we will do what we can to make it happen for you.</p>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
         },
@@ -1225,7 +1225,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Page\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Page\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
         },
         {
           "_styles": {
@@ -1296,7 +1296,7 @@
           },
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
           "title": "Hello, do you need some help?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"http://support-dropshop.solvecore.com/\" data-toolbar=\"-mbrBtnMove\">view DOCS</a><a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"https://support-dropshop.solvecore.com/\" data-toolbar=\"-mbrBtnMove\">view DOCS</a><a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_styles": {
