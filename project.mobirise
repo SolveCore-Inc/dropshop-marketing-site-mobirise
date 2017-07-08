@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M-Site",
-    "currentPage": "index.html",
+    "currentPage": "Blog.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 71,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32.png",
     "noImageResize": "true",
@@ -1431,6 +1431,740 @@
           "titled3": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "text": "Copyright (c) 2016, Solvecore inc."
+        }
+      ]
+    },
+    "Blog.html": {
+      "settings": {
+        "title": "DropShop :: Blog",
+        "meta_descr": "A blog for the dropshipping Shopify app DropShop."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1f",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#2980b9",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By <b>John Smith</b> posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#245383"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2c649f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2f6cab"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2980b9!important"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-17",
+          "_params": {
+            "bgColor": "#2f6cab",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dropshop-logo-alpha-final-white-resize-min.png",
+              "height": 128,
+              "alt": "DropShop",
+              "link": "index.html",
+              "title": "DropShop :: The bulk-ordering app to streamline your business",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-d\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features8-e\">Manage bulk orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Export orders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-p\">Import tracking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-q\">Mail carrier mapping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features5-w\">Flexible export formats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-j\">Pricing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://support-dropshop.solvecore.com\">Support docs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Page\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://apps.shopify.com/dropshop\">GET DROPSHOP</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-18",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2c3e50",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Solvecore inc."
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700"
+            },
+            ".subtitle": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle.lead": {
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".testimonial-text, .testimonial-author, .testimonial-position": {
+              "color": "#565555"
+            },
+            ".testimonial-position": {
+              "font-style": "italic",
+              "color": "#ecf0f1"
+            },
+            ".testimonial-author": {
+              "color": "#bdc3c7"
+            },
+            ".testimonial-text B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header8",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header8",
+          "_anchor": "header8-19",
+          "_params": {
+            "imageSize": "88",
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "bgColor": "#2980b9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#f1c40f",
+            "showText": false,
+            "showTitle": true,
+            "showButtons": false,
+            "showTestimonial": true,
+            "showImage": true
+          },
+          "text": "free download",
+          "title": "BULK SHOPIFY ORDERS WITH DROPSHOP",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger btn-lg\" href=\"https://mobirise.com\">download it</a>",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/faceshot.png",
+              "link": "https://mobirise.com",
+              "active": true,
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "comment": "<b>As a dropshipping store owner, I understand the struggle of dealing with ever increasing order volume and the potential of spreading my resources too thin. This is why we built an app to assist with dropshipping bulk order management.</b>",
+          "author": "Cole Jancsar,",
+          "position": "Lead developer of DropShop",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/header4.png",
+              "link": "https://mobirise.com"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1b",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>DropShop helps you save money and time by managing your dropshipping suppliers and orders; By allowing you to export orders in bulk, and then import tracking info, it streamlines your dropshipping workflow.</p>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text1": "<p><b>For many fast growing e-commerce dropshipping businesses there is a real struggle to keep up with the demand of an ever increasing order volume. Although this isn’t a <i>terrible</i> problem to have, there are currently limited solutions for tackling it.&nbsp;</b></p><p><br></p><p><b>The problem:</b> You have a high order volume but your business is not quite ready to (<i>or you don’t want to deal with the hassles</i>) of moving towards purchasing and managing your own inventory, as well as fulfilling your products through a boutique fulfillment center. You want to continue with the dropshipping methodology because it is easy, has less risk, and is something you are comfortable with.&nbsp;</p><p><br></p><p><br></p>",
+          "text2": "<p>Even 20+ orders per day can start to become unmanageable fast, and will probably have you looking to hire a virtual assistant to “click-click-click” and manually place orders through a single-order system. Single-order solutions exist, like the Shopified App or Oblero, and many successful business owners have put trust in a virtual assistant (or continue to put sweat equity into their businesses themselves) to processes all their orders manually on a daily basis through one of the these systems.</p><p><br></p><p>There are also currently some systems that allow you to connect directly with a preselected group of trusted dropshipping vendors. These solutions aren’t for everyone, as they are limited in product scope and the available products within them are available to everyone who uses the service, so the competition may be steeper.</p>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<b>There is an alternate option.</b> One that is beneficial to your business, as it saves you money, and allows you (or your virtual assistant) to spend time on more important things than clicking to place single orders over and over again every day. An option that is also beneficial and preferred for your chosen suppliers as well, as it saves them time and money too."
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "text1": "<p>A lot of store owners have already naturally progressed to this phase of their business (<i>and for them we have some information which may assist them moving forward and they should continue reading</i>) but for those who aren’t familiar with the alternative to single-order systems here is your chance to get acquainted!</p><p><br></p><p><b>It is simple.</b> You already have existing suppliers that you have been working with for some time by making single purchases through platforms like AliExpress, Ebay, or even Etsy. <b>These suppliers are not faceless companies.</b> They are made up of enterprising people just like you.&nbsp;</p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1rem; line-height: 1.85em;\">So… send them an email. Send them an email and ask them if you can take the orders which you already do with them, but send them on a daily (or every other day) in <b>a single bulk CSV file to place your orders in bulk</b>. </span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\"><br></span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\"><b>This method will instantly save you countless hours of labor per year, save you from potential missed or crossed orders in single-order systems, and frankly, just make your life and business easier.</b></span><br></p><p><br></p><p>For those of you who would like a more detailed explanation to increase your comfort with this opportunity we have detailed our <b>3 step plan</b> to getting your supplier to process your orders in bulk.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "48px",
+              "color": "#ecf0f1"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#2c3e50",
+            "showMeta": false
+          },
+          "title": "Convincing your suppliers to start using bulk orders",
+          "meta": "By <b>John Smith</b> posted July 20, 2016"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#2c3e50"
+          },
+          "text": "<h4>Step 1: Reaching out to your supplier</h4>",
+          "_styles": {
+            "H4": {
+              "color": "#ecf0f1"
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#2c3e50"
+          },
+          "text": "For the greatest level of success with your proposal, and to ensure that you can pay the supplier confidently, it is best to ensure that you have an existing working relationship with the supplier that you are trying to engage with. This existing relationship can mean having placed single orders with them previously in a drop-shipping manner, or having placed successful test orders with them in the past. This is a mutual step, as the supplier needs to be able to trust you, as much as you need to be able to trust them.<br><br><b>Supplier sources</b><br><br>You can find suppliers on sites like AliExpress, Ebay, or even Etsy. You can really find suppliers everywhere in any marketplace, however, we would recommend AliExpress to start, as it is most compatible with other single-order dropshipping apps. It will also let you build a relationship with your suppliers with the safety net that AliExpress’s customer service and refund policy extends to its customers.<br>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2c3e50"
+          },
+          "text": "<h4>Step 2: Beginning Negotiation</h4>",
+          "_styles": {
+            "H4": {
+              "color": "#ecf0f1"
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2c3e50"
+          },
+          "text": "This may seem like a daunting or scary task, but your suppliers are people too, and you both just want to make money while providing valuable goods to your customers. Once you have an existing relationship with a supplier, you can begin to reach out to them via email about starting to use bulk orders to place your orders. The challenge at this stage is often there can be a language barrier between suppliers and store owners. <br><br><b>Be patient and persistent. </b>Remember, the marketplace is big. If a supplier is unwilling to switch to bulk orders, you can always switch to a supplier that is willing. In the long term, it WILL pay off in time savings and personnel cost savings.<br>We remember times when our virtual assistants were staring down at pages and pages of single AliExpress orders (managed with another single order app system). After some minor negotiations, these dozens of pages turned in to one page as we were able to convert our best sellers to a bulk ordering arrangement.<br><br>There are really many ways that this can go. But, a good starting point is to get your suppliers email and reach out to them with a message like the following:<br>",
+          "_styles": {
+            "P": {
+              "color": "#9fa3a7"
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1p",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#34495e"
+          },
+          "text": "<blockquote>Hello there {{ supplier-name }},<br><br>We have been doing business together for a bit of time now, I am user {{ your AliExpress/Ebay/Etsy username }} and I have placed about 100 orders with you. I want to start sending you bulk orders in CSV files, then I will pay you in bulk, and you will send me tracking information for each order. Would this work for you?<br><br>Your truly,<br>Store Owner</blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#bdc3c7"
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2c3e50"
+          },
+          "text": "Sometimes it helps to also include a sample file with your email (if you have low volume it may be necessary to save up a few days worth of orders so that you can tempt the supplier into agreeing).<br><br><i>If there is a language barrier, use simple language and be persistent. You can always try with a different supplier</i><br><br>If you are really stuck, you can also attempt to use a translation service to mediate between yourself and the supplier.<br>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1r",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2c3e50"
+          },
+          "text": "<h4>Step 3: Agree on Prices and get SKU numbers</h4>",
+          "_styles": {
+            "H4": {
+              "color": "#ecf0f1"
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#2c3e50"
+          },
+          "text": "After you agree to start sending orders in bulk you will need to get the suppliers SKU numbers and  associate them with your products in the Shopify admin. Usually you can ask a supplier for a list of specific products by referencing their AliExpress/Ebay/Etsy listings and inquiring specifically about those products. They will usually send you details in the body of an email, or an a spreadsheet attachment.<br><br><b>Bulk discounts</b><br><br>Normally suppliers will offer you the same prices of their listing within AliExpress/Ebay/Etsy, but occasionally they will offer special bulk discounts (10%, 15%, or even buy X get Y free deals) depending on your order volume. It is up to you to negotiate to see what you can get. Don't be afraid to apply pressure about switching suppliers.<br><br><b>Convince an existing bulk order supplier to pick up more products</b><br><br>Suppliers that you have healthy existing relationships with, that you are already have engaged in the bulk ordering process with, will be open to getting additional products that you are willing to sell. Suppliers will usually only add products to their catalog that are similar in type or style (for instance if your supplier sells jewelry they are more likely to also pick up a new piece of jewelry you have found). <br><br>Just send them reference to an Ebay or AliExpress listing, and ask them if the will pick up the product so that you can start selling it.<br>"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
+            },
+            ".mbr-section-text": {
+              "color": "#666666",
+              "font-size": "18px"
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-1t",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showNumber": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "showImages": true
+          },
+          "number1": "1",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "title1": "Introducing DropShop",
+          "caption1": " A bulk order management system specially designed for the dropshipping business model and deeply integrated with the Shopify ecosystem.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/manageintegration.png",
+              "class": "card-img-top",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "text": "For those of you who are just starting out with bulk ordering, and for those who have been doing it for years, we have been participating in the same forums and Facebook dropshipping groups as you (like Kingpinning, Shopify Entrepreneurs, or Shopify Strategy, etc.) and have listened to those who have been in our shoes. We have been there for the countless questions about how shop owners were exporting CSVs, or the inquiries into how owners import tracking information back into Shopify. Comments surrounding these topics always point to disparate sources and multiple apps, but never to a comprehensive solution that does everything that you need <i>and</i> takes the work out of managing this process as part of a store's team. <br>",
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "400",
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features17",
+          "_anchor": "features17-1v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "bgColor": "#ffc80a",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#3498db",
+            "showTitle": true,
+            "showButtons": false
+          },
+          "title": "\"We found it surprising that Shopify, a company that seems to endorse the dropshipping model, didn’t have an integrated complete solution for dropshipping supplier order management.\"",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1w",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#eeeeee"
+          },
+          "text": "So we went sat down and created DropShop–first for our own stores, then quickly realizing that we could help others by offering it to the public, we engineered a solution for the Shopify app store.<br><br>Our solution works well in parallel with single order systems like Oberlo or Shopified. We would recommend keeping your small one off items in your single-order system of choice, and transferring your winners to CSV/bulk order fulfillment as soon as possible. This has the benefit of lowering (or even making your monthly subscription to these single-order systems free, as well as letting you use them for quick product importing from AliExpress, while saving you countless hours (and dollars) by processing your winning items quickly and efficiently by ordering <b>IN BULK</b> with DropShop!<br><br>DropShop is an embedded app built to look and feel like part of Shopify–minimizing the learning curve and startup time. It enables you to easily manage the suppliers that you have bulk-ordering relationships with, and gives you the information that you need to grow these relationships.<br><br>DropShop lets you export custom files in .xls, .xlsx, and .csv format with the fields that matter most to you and your suppliers. DropShop lets you import tracking information in bulk, and also lets you track your order expenses. We have also paid special attention to how your tracking information appears from a customer standpoint by creating a way for you to map mail carriers (and carrier tracking services) to countries of destination–this enables you to provide accurate tracking to your customers and boosts their sense of trust.<br>",
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#eeeeee"
+          },
+          "text": "<h4>Why you should consider DropShop</h4>",
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1y",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "text": "<ul><li>Save time and money by reducing click per orders.</li></ul><br><ul><li>Get better visibility to bulk order status and tracking.</li></ul><br><ul><li>App consolidation–no need for separate export and import apps.</li></ul><br><ul><li>Increase trustworthiness through official carrier mapping.</li></ul><br><ul><li>Ever expanding feature offering.</li></ul><br><ul><li>Amazing support and support infrastructure.<br></li></ul>",
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call4",
+          "_anchor": "call4-1d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dropshop-bg-textless-final-min-bg-img-2000x1334.png",
+            "bgColor": "#c0392b",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#52779e",
+            "showTitle": true,
+            "showButtons": true
+          },
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
+          "title": "Ready to get started?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN</a><a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://apps.shopify.com/dropshop\" data-toolbar=\"-mbrBtnMove\">GET DROPSHOP</a>"
+        },
+        {
+          "_styles": {
+            ".btn-social": {
+              "color": "#fff",
+              "height": "60px",
+              "width": "60px",
+              "line-height": "60px",
+              "font-size": "2rem"
+            },
+            ".mbr-section-title": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/img_extHeader7_bg.jpg",
+            "bgColor": "#34495e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#1abc9c",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE DROPSHOP!"
         }
       ]
     }
