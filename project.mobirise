@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32.png",
     "noImageResize": "true",
@@ -1664,8 +1664,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/header4.png",
-              "link": "https://mobirise.com"
+              "src": "@PROJECT_PATH@/assets/images/bulkorders.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1839,17 +1842,17 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-1p",
+          "_name": "content2",
+          "_anchor": "content2-1z",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#34495e"
           },
-          "text": "<blockquote>Hello there {{ supplier-name }},<br><br>We have been doing business together for a bit of time now, I am user {{ your AliExpress/Ebay/Etsy username }} and I have placed about 100 orders with you. I want to start sending you bulk orders in CSV files, then I will pay you in bulk, and you will send me tracking information for each order. Would this work for you?<br><br>Your truly,<br>Store Owner</blockquote>",
+          "text": "Hello there {{ supplier-name }},<div><br></div><div>We have been doing business together for a bit of time now, I am user {{ your AliExpress/Ebay/Etsy username }} and I have placed about 100 orders     with you. I want to start sending you bulk orders in CSV files, then I will pay you in bulk, and you will send me tracking information for each order. Would     this work for you?</div><div><br></div><div>Your truly,</div><div>Store Owner</div>",
           "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#bdc3c7"
+            "DIV": {
+              "color": "#95a5a6"
             }
           }
         },
