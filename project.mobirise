@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M-Site",
-    "currentPage": "Blog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -943,7 +943,7 @@
           "label2": "LIMITED TIME ONLY",
           "title2": "DROPSHOP: FOUNDER",
           "currency2": "$",
-          "price2": "19.99",
+          "price2": "10.99",
           "period2": "/mo",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Suppliers</li><li class=\"list-group-item\"><b>Unlimited</b>&nbsp;Order Exports</li><li class=\"list-group-item\"><b>Unlimited</b>&nbsp;Export Formats</li><li class=\"list-group-item\"><b>Unlimited </b>DropShop Use</li><li class=\"list-group-item\"><br></li></ul><p><i>After first 100 enrollments, plans will increase,&nbsp;</i></p><p><i>and founders plan will no longer be available.</i></p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://apps.shopify.com/dropshop\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE NOW</a>",
@@ -1772,18 +1772,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "H4": {
+              "color": "#ecf0f1"
+            }
+          },
           "_anchor": "content1-1l",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#2c3e50"
           },
-          "text": "<h4>Step 1: Reaching out to your supplier</h4>",
-          "_styles": {
-            "H4": {
-              "color": "#ecf0f1"
-            }
-          }
+          "text": "<h4>Step 1: Reaching out to your supplier</h4>"
         },
         {
           "alias": "colorm/components",
@@ -1805,18 +1805,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "H4": {
+              "color": "#ecf0f1"
+            }
+          },
           "_anchor": "content1-1n",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#2c3e50"
           },
-          "text": "<h4>Step 2: Beginning Negotiation</h4>",
-          "_styles": {
-            "H4": {
-              "color": "#ecf0f1"
-            }
-          }
+          "text": "<h4>Step 2: Beginning Negotiation</h4>"
         },
         {
           "alias": "colorm/components",
@@ -1824,18 +1824,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#9fa3a7"
+            }
+          },
           "_anchor": "content1-1o",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#2c3e50"
           },
-          "text": "This may seem like a daunting or scary task, but your suppliers are people too, and you both just want to make money while providing valuable goods to your customers. Once you have an existing relationship with a supplier, you can begin to reach out to them via email about starting to use bulk orders to place your orders. The challenge at this stage is often there can be a language barrier between suppliers and store owners. <br><br><b>Be patient and persistent. </b>Remember, the marketplace is big. If a supplier is unwilling to switch to bulk orders, you can always switch to a supplier that is willing. In the long term, it WILL pay off in time savings and personnel cost savings.<br>We remember times when our virtual assistants were staring down at pages and pages of single AliExpress orders (managed with another single order app system). After some minor negotiations, these dozens of pages turned in to one page as we were able to convert our best sellers to a bulk ordering arrangement.<br><br>There are really many ways that this can go. But, a good starting point is to get your suppliers email and reach out to them with a message like the following:<br>",
-          "_styles": {
-            "P": {
-              "color": "#9fa3a7"
-            }
-          }
+          "text": "This may seem like a daunting or scary task, but your suppliers are people too, and you both just want to make money while providing valuable goods to your customers. Once you have an existing relationship with a supplier, you can begin to reach out to them via email about starting to use bulk orders to place your orders. The challenge at this stage is often there can be a language barrier between suppliers and store owners. <br><br><b>Be patient and persistent. </b>Remember, the marketplace is big. If a supplier is unwilling to switch to bulk orders, you can always switch to a supplier that is willing. In the long term, it WILL pay off in time savings and personnel cost savings.<br>We remember times when our virtual assistants were staring down at pages and pages of single AliExpress orders (managed with another single order app system). After some minor negotiations, these dozens of pages turned in to one page as we were able to convert our best sellers to a bulk ordering arrangement.<br><br>There are really many ways that this can go. But, a good starting point is to get your suppliers email and reach out to them with a message like the following:<br>"
         },
         {
           "alias": "colorm/components",
@@ -1843,18 +1843,18 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "color": "#95a5a6"
+            }
+          },
           "_anchor": "content2-1z",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#34495e"
           },
-          "text": "Hello there {{ supplier-name }},<div><br></div><div>We have been doing business together for a bit of time now, I am user {{ your AliExpress/Ebay/Etsy username }} and I have placed about 100 orders     with you. I want to start sending you bulk orders in CSV files, then I will pay you in bulk, and you will send me tracking information for each order. Would     this work for you?</div><div><br></div><div>Your truly,</div><div>Store Owner</div>",
-          "_styles": {
-            "DIV": {
-              "color": "#95a5a6"
-            }
-          }
+          "text": "Hello there {{ supplier-name }},<div><br></div><div>We have been doing business together for a bit of time now, I am user {{ your AliExpress/Ebay/Etsy username }} and I have placed about 100 orders     with you. I want to start sending you bulk orders in CSV files, then I will pay you in bulk, and you will send me tracking information for each order. Would     this work for you?</div><div><br></div><div>Your truly,</div><div>Store Owner</div>"
         },
         {
           "alias": "colorm/components",
@@ -1876,18 +1876,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "H4": {
+              "color": "#ecf0f1"
+            }
+          },
           "_anchor": "content1-1r",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#2c3e50"
           },
-          "text": "<h4>Step 3: Agree on Prices and get SKU numbers</h4>",
-          "_styles": {
-            "H4": {
-              "color": "#ecf0f1"
-            }
-          }
+          "text": "<h4>Step 3: Agree on Prices and get SKU numbers</h4>"
         },
         {
           "alias": "colorm/components",
@@ -1993,18 +1993,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          },
           "_anchor": "content1-1u",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "text": "For those of you who are just starting out with bulk ordering, and for those who have been doing it for years, we have been participating in the same forums and Facebook dropshipping groups as you (like Kingpinning, Shopify Entrepreneurs, or Shopify Strategy, etc.) and have listened to those who have been in our shoes. We have been there for the countless questions about how shop owners were exporting CSVs, or the inquiries into how owners import tracking information back into Shopify. Comments surrounding these topics always point to disparate sources and multiple apps, but never to a comprehensive solution that does everything that you need <i>and</i> takes the work out of managing this process as part of a store's team. <br>",
-          "_styles": {
-            "P": {
-              "color": "#666666"
-            }
-          }
+          "text": "For those of you who are just starting out with bulk ordering, and for those who have been doing it for years, we have been participating in the same forums and Facebook dropshipping groups as you (like Kingpinning, Shopify Entrepreneurs, or Shopify Strategy, etc.) and have listened to those who have been in our shoes. We have been there for the countless questions about how shop owners were exporting CSVs, or the inquiries into how owners import tracking information back into Shopify. Comments surrounding these topics always point to disparate sources and multiple apps, but never to a comprehensive solution that does everything that you need <i>and</i> takes the work out of managing this process as part of a store's team. <br>"
         },
         {
           "_styles": {
@@ -2051,18 +2051,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          },
           "_anchor": "content1-1w",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#eeeeee"
           },
-          "text": "So we went sat down and created DropShop–first for our own stores, then quickly realizing that we could help others by offering it to the public, we engineered a solution for the Shopify app store.<br><br>Our solution works well in parallel with single order systems like Oberlo or Shopified. We would recommend keeping your small one off items in your single-order system of choice, and transferring your winners to CSV/bulk order fulfillment as soon as possible. This has the benefit of lowering (or even making your monthly subscription to these single-order systems free, as well as letting you use them for quick product importing from AliExpress, while saving you countless hours (and dollars) by processing your winning items quickly and efficiently by ordering <b>IN BULK</b> with DropShop!<br><br>DropShop is an embedded app built to look and feel like part of Shopify–minimizing the learning curve and startup time. It enables you to easily manage the suppliers that you have bulk-ordering relationships with, and gives you the information that you need to grow these relationships.<br><br>DropShop lets you export custom files in .xls, .xlsx, and .csv format with the fields that matter most to you and your suppliers. DropShop lets you import tracking information in bulk, and also lets you track your order expenses. We have also paid special attention to how your tracking information appears from a customer standpoint by creating a way for you to map mail carriers (and carrier tracking services) to countries of destination–this enables you to provide accurate tracking to your customers and boosts their sense of trust.<br>",
-          "_styles": {
-            "P": {
-              "color": "#666666"
-            }
-          }
+          "text": "So we went sat down and created DropShop–first for our own stores, then quickly realizing that we could help others by offering it to the public, we engineered a solution for the Shopify app store.<br><br>Our solution works well in parallel with single order systems like Oberlo or Shopified. We would recommend keeping your small one off items in your single-order system of choice, and transferring your winners to CSV/bulk order fulfillment as soon as possible. This has the benefit of lowering (or even making your monthly subscription to these single-order systems free, as well as letting you use them for quick product importing from AliExpress, while saving you countless hours (and dollars) by processing your winning items quickly and efficiently by ordering <b>IN BULK</b> with DropShop!<br><br>DropShop is an embedded app built to look and feel like part of Shopify–minimizing the learning curve and startup time. It enables you to easily manage the suppliers that you have bulk-ordering relationships with, and gives you the information that you need to grow these relationships.<br><br>DropShop lets you export custom files in .xls, .xlsx, and .csv format with the fields that matter most to you and your suppliers. DropShop lets you import tracking information in bulk, and also lets you track your order expenses. We have also paid special attention to how your tracking information appears from a customer standpoint by creating a way for you to map mail carriers (and carrier tracking services) to countries of destination–this enables you to provide accurate tracking to your customers and boosts their sense of trust.<br>"
         },
         {
           "alias": "colorm/components",
@@ -2070,18 +2070,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          },
           "_anchor": "content1-1x",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#eeeeee"
           },
-          "text": "<h4>Why you should consider DropShop</h4>",
-          "_styles": {
-            "P": {
-              "color": "#666666"
-            }
-          }
+          "text": "<h4>Why you should consider DropShop</h4>"
         },
         {
           "alias": "colorm/components",
@@ -2089,18 +2089,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          },
           "_anchor": "content1-1y",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "text": "<ul><li>Save time and money by reducing click per orders.</li></ul><br><ul><li>Get better visibility to bulk order status and tracking.</li></ul><br><ul><li>App consolidation–no need for separate export and import apps.</li></ul><br><ul><li>Increase trustworthiness through official carrier mapping.</li></ul><br><ul><li>Ever expanding feature offering.</li></ul><br><ul><li>Amazing support and support infrastructure.<br></li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#666666"
-            }
-          }
+          "text": "<ul><li>Save time and money by reducing click per orders.</li></ul><br><ul><li>Get better visibility to bulk order status and tracking.</li></ul><br><ul><li>App consolidation–no need for separate export and import apps.</li></ul><br><ul><li>Increase trustworthiness through official carrier mapping.</li></ul><br><ul><li>Ever expanding feature offering.</li></ul><br><ul><li>Amazing support and support infrastructure.<br></li></ul>"
         },
         {
           "_styles": {},
